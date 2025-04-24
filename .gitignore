@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual Environment
+venv/
+.env/
+
+# Credenciais e configurações sensíveis
+credentials.json
+token.json
+*.key
+.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDE/Editores
+.vscode/
+.idea/
+
+# Logs e dados
+*.log
+*.sqlite
+
+# Arquivos temporários
+*.tmp
